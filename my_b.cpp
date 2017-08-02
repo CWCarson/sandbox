@@ -1,7 +1,9 @@
 
 main(int argc, char const *argv[])
 {
-	int yourint = 5;
+
+	int yourint = 13;
+
 	/* code */
 
 	for (int i = 0 ; i < 3 ; i++)
@@ -9,7 +11,7 @@ main(int argc, char const *argv[])
 		yourint++;
 	}
 
-	int myInt = 3;
+	int myInt = 2;
 
 	return 0;
 }
