@@ -3,5 +3,8 @@ main(int argc, char const *argv[])
 {
 	int yourint = 4;
 	/* code */
-	return 11;
+
+	int myInt = 3;
+
+	return 0;
 }
