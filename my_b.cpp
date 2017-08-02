@@ -9,7 +9,7 @@ main(int argc, char const *argv[])
 		yourint++;
 	}
 
-	int myInt = 3;
+	int myInt = 2;
 
 	return 0;
 }
